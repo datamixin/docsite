@@ -1,0 +1,483 @@
+{
+  "global.data.source": {
+    "message": "Sumber Data"
+  },
+  "index.description": {
+    "message": "Ubah data anda menjadi model yang cerdas"
+  },
+  "pricing.title": {
+    "message": "Harga"
+  },
+  "pricing.description": {
+    "message": "Datamixin hadir dengan tiga edisi, Trial, Personal dan Managed Service"
+  },
+  "pricing.motto": {
+    "message": "Harga Pantas"
+  },
+  "pricing.explanation": {
+    "message": "Waktu anda berharga - Jadilah produktif dengan Datamixin"
+  },
+  "pricing.billing": {
+    "message": "Tagin Tahunan"
+  },
+  "pricing.save": {
+    "message": "(Hemat 20%)"
+  },
+  "pricing.trial.title": {
+    "message": "Percobaan"
+  },
+  "pricing.trial.period": {
+    "message": "14 Hari"
+  },
+  "pricing.trial.explanation": {
+    "message": "Mulai dengan periode percobaan - jalankan penuh semua fungsi"
+  },
+  "pricing.personal.title": {
+    "message": "Personal"
+  },
+  "pricing.personal.monthly": {
+    "message": "Rp990k"
+  },
+  "pricing.personal.period": {
+    "message": "bulan"
+  },
+  "pricing.personal.explanation": {
+    "message": "Lanjut ke edisi Personal untuk penggunaan satu orang"
+  },
+  "pricing.managed.title": {
+    "message": "Manage Service"
+  },
+  "pricing.managed.monthly": {
+    "message": "Tagihan"
+  },
+  "pricing.managed.period": {
+    "message": "/ RAM / bulan"
+  },
+  "pricing.managed.explanation": {
+    "message": "Install di tempat anda dan dapatkan layanan penuh untuk kantor anda"
+  },
+  "pricing.whitelabel.title": {
+    "message": "White Label"
+  },
+  "pricing.whitelabel.monthly": {
+    "message": "Bagi Untung"
+  },
+  "pricing.whitelabel.period": {
+    "message": "bulan"
+  },
+  "pricing.whitelabel.explanation": {
+    "message": "Bangun merek anda sendiri di pasar yang anda pilih dan kami akan menjaganya"
+  },
+  "pricing.nopayment": {
+    "message": "Tanpa pembayaran"
+  },
+  "pricing.noupfront": {
+    "message": "Tanpa biaya awal"
+  },
+  "pricing.comarketing": {
+    "message": "Permasaran bersama"
+  },
+  "pricing.unlimited.user": {
+    "message": "User tidak terbatas"
+  },
+  "pricing.unlimited.project": {
+    "message": "Project tidak terbatas"
+  },
+  "pricing.support.community": {
+    "message": "Dukungan Komunitas"
+  },
+  "pricing.support.email": {
+    "message": "Dukungan Email"
+  },
+  "pricing.support.priority": {
+    "message": "Dukungan Prioritas"
+  },
+  "pricing.support.limited": {
+    "message": "Dukungan Terbatas"
+  },
+  "pricing.request.demo": {
+    "message": "Permintaan Demo"
+  },
+  "pricing.buy.licence": {
+    "message": "Beli Lisensi Anda"
+  },
+  "pricing.chat.us": {
+    "message": "Chat Kami"
+  },
+  "pricing.email.us": {
+    "message": "Email Kami"
+  },
+  "pricing.faq.title": {
+    "message": "Pertanyaan yang sering disampaikan"
+  },
+  "pricing.faq.explanation.open": {
+    "message": "Anda memiliki pertanyaan berbeda dan tidak dapat menemukan jawaban yang anda cari? Hubungi tim pendukung kami dengan mengirim kami"
+  },
+  "pricing.faq.explanation.mid": {
+    "message": "atau"
+  },
+  "pricing.faq.explanation.close": {
+    "message": "kami akan kembali kepada anda sesegera mungkin."
+  },
+  "pricing.faq.license.q": {
+    "message": "Apa itu lisensi?"
+  },
+  "pricing.faq.license.a": {
+    "message": "Satu lisensi adalah izin akses untuk menggunakan aplikasi Datamixin di https://apps.datamixin.com"
+  },
+  "pricing.faq.refund.q": {
+    "message": "Apakah ada kebijakan pengembalian dana?"
+  },
+  "pricing.faq.refund.a": {
+    "message": "Ya, kami memiliki jaminan 30-hari uang kembali. Kirim email ke info@datamixin.com atau chat kami."
+  },
+  "pricing.faq.free.q": {
+    "message": "Apakah ada penawaran gratis tanpa terbatas waktu?"
+  },
+  "pricing.faq.free.a": {
+    "message": "Tidak ada penawaran gratis tanpa terbatas waktu. Masa percobaan yang kami tawarkan kami rasa cukup untuk anda dan tidak ada komitmen pembayaran, hanya daftar dan anda dapat akses ke semua fitur aplikasi."
+  },
+  "pricing.faq.payment.q": {
+    "message": "Apa pilihan pembayaran yang ditawarkan?"
+  },
+  "pricing.faq.payment.a": {
+    "message": "Pilihan pembawaran kami menggunakan pihak ketiga. Mereka mendukung pembayaran online yang umum digunakan."
+  },
+  "pricing.faq.cancel.q": {
+    "message": "Apa yang terjadi jika saya batal berlangganan?"
+  },
+  "pricing.faq.cancel.a": {
+    "message": "Jangan khawatir, Datamixin akan melakukan pengembalian dana anda dan data anda akan kami jaga sebulan."
+  },
+  "pricing.faq.enterprise.q": {
+    "message": "Saya butuh lisensi untuk perusahaan. Bagaimana caranya?"
+  },
+  "pricing.faq.enterprise.a": {
+    "message": "Kirim kami email ke info@datamixin.com atau chat kami dan kami akan membuat rencana untuk anda."
+  },
+  "intro.powered.by": {
+    "message": "Didukung oleh Python"
+  },
+  "intro.your.productive": {
+    "message": "Aplikasi Perdiktif Anda"
+  },
+  "intro.data.science.apps": {
+    "message": "Dengan Platform Mudah"
+  },
+  "intro.explanation": {
+    "message": "Gunakan platform dengan mudah untuk mengubah data anda yang berharga menjadi model yang dapat memprediksi dan membantu anda mengambil keputusan"
+  },
+  "intro.sign.up": {
+    "message": "Daftar untuk Mencoba Gratis"
+  },
+  "intro.request.demo": {
+    "message": "Permintaan Demo"
+  },
+  "sources.explanation": {
+    "message": "Import sumber data anda dari basis File, Basis data di server, penyimpanan berbasis cloud, hasil eksekusi API atau anda dapat membuatnya secara mandiri. Jika sumber data anda tidak di dukung, kirimkan permintaan fitur dan kami akan membuatnya ada untuk anda"
+  },
+  "preparation.title": {
+    "message": "Persiapan Mudah"
+  },
+  "preparation.explanation": {
+    "message": "Perubahan Dataset dapat langsung terlihat, anda tidak pernah kelihangan konteks. Dengan antarmuka yang intuitif, memungkinkan pengguna mengubah dataset secara mudah. Pengguna dengan tanpa kesulitan dapat membersihkan, membentuk, dan memperkaya datanya untuk menjamin data yang berkualitas dan siap untuk dianalisa, dijadikan bahan untuk membangun model dan prediksi."
+  },
+  "visualization.title": {
+    "message": "Visualisasi Cepat"
+  },
+  "visualization.explanation": {
+    "message": "Visualisasi Data adalah kegiatan yang harus ada di dalam proses analisa data. Kami membuatnya sebagai sebuah proses yang cepat tanpa butuh waktu lama untuk mempelajarinya. Datamixin dapat membuat visualisasi sederhana sampai visualizasi tingkat lanjut seperti RadViz atau Parallel Coordinate atau bahkan visualisasi dengan fitur lapisan dan segi."
+  },
+  "modeling.title": {
+    "message": "Model Instant"
+  },
+  "modeling.explanation": {
+    "message": "Membangun model machine learning adalah tujuan utama dari perkerjaan sains data. Dari model yang dibangun pengguna dapat melakukan prediksi sebuah data. Gunakan Data Modeler untuk membuat model, hanya dengan cara drag and drop, semua metode evaluasi yang umum digunakan telah tersedia bersamaan dengan dataset dan visualisasi terkait."
+  },
+  "prediction.title": {
+    "message": "Lakukan Prediksi"
+  },
+  "prediction.explanation": {
+    "message": "Setelah model machine learning selesai dibangun, anda dapat melakukan prediksi dengan data baru. Dialog Tryout digunakan untuk satu rekaman data setiap waktu. Untuk sebuah dataset pengguna dapat menerapkannya dengan mamanfaatkan formula dan memberikannya dataset yang baru."
+  },
+  "newsletter.title": {
+    "message": "Berlangganan informasi product"
+  },
+  "newsletter.placeholder": {
+    "message": "Alamat Email"
+  },
+  "newsletter.button": {
+    "message": "Berlangganan"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "Page Not Found",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "We could not find what you were looking for.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "note",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "tip",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "caution",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archive",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archive",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Newer Entries",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Older Entries",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer Post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older Post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Switch between dark and light mode (currently {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "dark mode",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "light mode",
+    "description": "The name for the light color mode"
+  },
+  "theme.blog.post.plurals": {
+    "message": "One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "View All Tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.common.editThisPage": {
+    "message": "Edit this page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Direct link to {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " on {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " by {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Last updated{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tags:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copied",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copy",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Read More",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Home page",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Back to main menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Try again",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Skip to main content",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
+  }
+}
