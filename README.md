@@ -1,7 +1,7 @@
-# datamixin.com
+# docsite
 
-[This website](https://www.datamixin.com/) is built using
-[Docusaurus 2](https://v2.docusaurus.io/). Pages & components are written in
+[This website](https://www.datamixin.com) is built using
+[Docusaurus 2](https://v2.docusaurus.io). Pages & components are written in
 TypeScript, the styles in vanilla CSS with variables using
 [CSS Modules](https://github.com/css-modules/css-modules).
 
@@ -38,10 +38,10 @@ documentation, bug reports, blog posts, or feedback. To get started with
 contributing:
 
 - Have a look through
-  [GitHub issues](https://github.com/datamixin/datamixin.com/issues).
+  [GitHub issues](https://github.com/datamixin/docsite/issues).
 - Read this section for guidelines.
 - Create a [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-  of datamixin.com and submit a pull request with your proposed changes.
+  of docsite and submit a pull request with your proposed changes.
 
 ## Bugs and features
 
